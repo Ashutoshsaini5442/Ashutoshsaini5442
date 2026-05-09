@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashutosh Saini 
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning java
-- 📫 How to reach me dm on instagram :- @__iamashu___04
+- 📫 How to reach me dm on instagram :- @iamashux13
 
 <!---
 Ashutoshsaini5442/Ashutoshsaini5442 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
